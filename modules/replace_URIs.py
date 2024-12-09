@@ -1,4 +1,5 @@
 # A program to translate public to NN URIs.
+# dependency on mapping.py to handle SSSOM files
 
 # Process:
 # - load mapping file into NNURIs
